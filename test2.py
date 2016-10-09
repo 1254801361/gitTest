@@ -16,3 +16,10 @@ print 123
 print 123123
 print 123123
 print 123123
+
+print '123'
+print 'ss123'
+print '66789'
+
+print 'aa'
+print 456454
