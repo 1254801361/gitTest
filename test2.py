@@ -16,3 +16,4 @@ print 123
 print 123123
 print 123123
 print 123123
+print 'oo'
