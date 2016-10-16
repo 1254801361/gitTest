@@ -11,3 +11,12 @@ print json.dumps(di)
 
 print 123
 print 456
+
+x = {
+    "share_type": "group",
+    "group_info": {
+        "id": "",
+        "name": "",
+    },
+    "permission": "",
+}
